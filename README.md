@@ -16,7 +16,7 @@ npm install --save-dev hardhat
 ```
     - initialize hardhat
 ```shell
-npm hardhat init
+npx hardhat init
 ```
 
 2. Verify git and forge
