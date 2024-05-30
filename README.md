@@ -43,7 +43,7 @@ npm install --save-dev @nomicfoundation/hardhat-foundry
 require("@nomicfoundation/hardhat-foundry");
 ```
 
-5. Initialize Forge
+5. Initialize Forge w/ HardHat
 ```javascript
 npx hardhat init-foundry
 ```
